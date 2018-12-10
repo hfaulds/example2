@@ -7,3 +7,4 @@ action "a" {
   uses = "docker://alpine:latest"
   runs = "echo hello"
 }
+

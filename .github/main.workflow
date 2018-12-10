@@ -37,4 +37,3 @@ action "g" {
   uses = "./.github"
   runs = "echo g"
 }
-
